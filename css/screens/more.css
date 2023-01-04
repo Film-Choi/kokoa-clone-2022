@@ -1,0 +1,51 @@
+.contact_i_icon {
+  position: absolute;
+  display: block;
+  font-size: 15px;
+  border: 2px solid red;
+  text-align: center;
+  font-weight: 600;
+  color: red;
+  width: 10px;
+  height: 10px;
+  padding: 1px;
+  border-radius: 50%;
+  right: -20px;
+  bottom: 0px;
+}
+.user-component_text_more {
+  position: relative;
+}
+.more-screen .icon_row {
+  margin-top: 35px;
+}
+.more-suggestion {
+  margin-top: 50px;
+  border-top: var(--main-border);
+}
+.more-suggestion_title {
+  margin-bottom: 30px;
+}
+.more-suggestion_icons {
+  display: flex;
+}
+.more-suggestion_icon {
+  margin-right: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.more-suggestion_icon_img {
+  width: 60px;
+  height: 60px;
+  background-color: var(--yellow);
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.more-suggestion_icon_img i {
+  font-size: 32px;
+  color: white;
+}

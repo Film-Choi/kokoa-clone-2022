@@ -1,0 +1,21 @@
+.badge {
+  background-color: tomato;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  justify-content: center;
+  font-weight: 600;
+  align-items: center;
+  color: white;
+  border-radius: 12px;
+}
+
+.gear-notifi {
+  position: absolute;
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 2.5px;
+  top: -6px;
+  right: -6px;
+}
